@@ -1,0 +1,36 @@
+The University Bus Route Management System is designed to optimize and streamline campus transportation by providing students and faculty with the most efficient bus routes, real-time arrival estimates, and seat allocation. Using Dijkstra’s Algorithm, the system determines the shortest route to a user’s destination, ensuring minimal travel and wait times.
+
+Key Features
+Shortest Route Calculation: Implements Dijkstra’s Algorithm to find the most optimal bus route.
+
+Real-Time Tracking: Live bus location updates for accurate arrival time estimation.
+
+Seat Allocation System: Prevents overcrowding by managing bus seat reservations.
+
+User-Friendly Interface: Simple and intuitive design for easy navigation.
+
+Performance Optimization: Ensures quick responses even under high user load.
+
+Technology Stack
+Backend: Python (Flask/Django) or Node.js
+
+Frontend: React.js / HTML, CSS, JavaScript
+
+Database: MySQL / PostgreSQL
+
+Algorithm Used: Dijkstra’s Algorithm for shortest path computation
+
+Real-Time Data: GPS integration for live bus tracking
+
+Future Enhancements
+AI-powered route prediction based on historical traffic patterns
+
+IoT-based GPS tracking for enhanced accuracy
+
+Mobile app support with push notifications
+
+Smart card integration for seamless bus fare payments
+
+Multi-language support for improved accessibility
+
+This system provides a scalable, efficient, and intelligent solution to campus transportation challenges, ensuring a smooth and hassle-free commuting experience for students and faculty.
